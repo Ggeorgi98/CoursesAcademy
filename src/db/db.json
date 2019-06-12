@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Candice Casey",
+      "username": "Avisss",
+      "password": "123",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "User"
+    },
+    {
+      "id": 4,
+      "name": "Magdalena Townsend",
+      "username": "Gibson",
+      "password": "123",
+      "picture": "https://picsum.photos/200/300",
+      "role": "User",
+      "isBlocked": false
+    },
+    {
+      "id": 5,
+      "name": "Martha Moody",
+      "username": "Elizabeth",
+      "password": "123",
+      "picture": "https://picsum.photos/200/300",
+      "role": "User",
+      "isBlocked": false
+    },
+    {
+      "id": 6,
+      "name": "Spasko 2",
+      "username": "Spas",
+      "password": "az",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": true,
+      "role": "User"
+    },
+    {
+      "name": "gsdfgdsf",
+      "username": "gfdgsdf",
+      "password": "as",
+      "picture": "https://picsum.photos/200/300",
+      "id": 7,
+      "role": "User",
+      "isBlocked": false
+    },
+    {
+      "name": "Welch Cash",
+      "username": "Green",
+      "password": "123",
+      "picture": "https://picsum.photos/200/300",
+      "id": 8,
+      "role": "User",
+      "isBlocked": false
+    },
+    {
+      "id": 9,
+      "name": "Test",
+      "username": "admin",
+      "password": "123",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "Admin"
+    },
+    {
+      "id": 10,
+      "name": "asdsadsa",
+      "username": "asdadas",
+      "password": "11111",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "User"
+    },
+    {
+      "id": 11,
+      "name": "asfsdgsdg",
+      "username": "asdadasq",
+      "password": "123",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "User"
+    },
+    {
+      "id": 12,
+      "name": "ergdgtrysgv",
+      "username": "asdasfger",
+      "password": "12345",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "User"
+    },
+    {
+      "id": 13,
+      "name": "asfasf",
+      "username": "fasdfasdfa",
+      "password": "222",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "User"
+    },
+    {
+      "id": 14,
+      "name": "sdfsdfsd",
+      "username": "admin2",
+      "password": "q12",
+      "picture": "https://picsum.photos/200/300",
+      "isBlocked": false,
+      "role": "User"
+    }
+  ],
+  "courses": [
+    {
+      "id": "2",
+      "title": "C#",
+      "description": "Tasks",
+      "rating": "6",
+      "assigneeId": [
+        11,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Angular",
+      "description": "Tasks",
+      "rating": "12",
+      "assigneeId": [
+        9
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Arts",
+      "description": "Tasks",
+      "rating": 1,
+      "assigneeId": [
+        9
+      ]
+    }
+  ]
+}
